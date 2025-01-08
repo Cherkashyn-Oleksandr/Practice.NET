@@ -1,0 +1,14 @@
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\bin\Debug\net8.0\Task_Smallest_Int.exe
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\bin\Debug\net8.0\Task_Smallest_Int.deps.json
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\bin\Debug\net8.0\Task_Smallest_Int.runtimeconfig.json
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\bin\Debug\net8.0\Task_Smallest_Int.dll
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\bin\Debug\net8.0\Task_Smallest_Int.pdb
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\obj\Debug\net8.0\Task_Smallest_Int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\obj\Debug\net8.0\Task_Smallest_Int.AssemblyInfoInputs.cache
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\obj\Debug\net8.0\Task_Smallest_Int.AssemblyInfo.cs
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\obj\Debug\net8.0\Task_Smallest_Int.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\obj\Debug\net8.0\Task_Smallest_Int.dll
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\obj\Debug\net8.0\refint\Task_Smallest_Int.dll
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\obj\Debug\net8.0\Task_Smallest_Int.pdb
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\obj\Debug\net8.0\Task_Smallest_Int.genruntimeconfig.cache
+C:\Users\oleks\source\repos\Task_Smallest_Int\Task_Smallest_Int\obj\Debug\net8.0\ref\Task_Smallest_Int.dll
